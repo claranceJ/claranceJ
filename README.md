@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [KaicyLTD](https://kaicyltd-career-website.onrender.com/#)
 
-- 🌱 I’m currently learning **Python,Flask,C,VIM,EMACS**
+- 🌱 I’m currently learning **C,VIM,EMACS**
 
 - 💬 Ask me about **Python,Flask,MYSQL,BOOTSTRAP**
 
