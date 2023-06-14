@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C,VIM,EMACS,SQLAlchemy**
 
-- 💬 Ask me about **Back-end: Python, Flask**
+- 💬 Ask me about **Back-end: Python, Flask, MySQL, Vagrant**
 
 - 📫 How to reach me **jacktonec@gmail.com**
 
