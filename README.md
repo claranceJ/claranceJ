@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋🏿, I'm Jacktone Clarance</h1>
-<h3 align="center">A Software Engineer from the land of lions🦁, safari, and incredible code-trekking adventures! Kenya 🇰🇪, see what I did there😜, I know😔.</h3>
+<h3 align="center">A Software Engineer from the land of lions🦁, safari🐘, and incredible code-trekking adventures! Kenya 🇰🇪, see what I did there😜, I know😔.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=clarancej&label=Profile%20views&color=0e75b6&style=flat" alt="clarancej" /> </p> -->
