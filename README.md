@@ -1,7 +1,7 @@
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)
 
 <p align="center"> 
-  Visitor count<br>
+  Visitors count<br>
   <img src="https://profile-counter.glitch.me/omondi8399/count.svg" />
 </p>
 
