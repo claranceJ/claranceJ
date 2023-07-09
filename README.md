@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on [KaicyLTD](https://kaicyltd-career-website.onrender.com/#)
 
-- 🌱 I’m currently learning **C,VIM,EMACS,SQLAlchemy**
+- 🌱 I’m currently learning **C,EMACS**
 
-- 💬 Ask me about **Back-end: Python, Flask, SQL, MySQL, Vagrant, Virtualization**
+- 💬 Ask me about **Back-end: Bash, Python, Flask, SQL, MySQL,Virtualization**
 
 - 📫 How to reach me **jacktonec@gmail.com**
 
