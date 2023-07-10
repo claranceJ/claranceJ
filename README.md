@@ -5,15 +5,17 @@
   <img src="https://profile-counter.glitch.me/omondi8399/count.svg" />
 </p>
 
-<h1 align="center">Hi 👋🏿, I'm Jacktone Clarance</h1>
-<h3 align="center">A Software Engineer from the land of lions🦁, safari🐘, and incredible code-trekking adventures! Kenya 🇰🇪, see what I did there😜, I know😔.</h3>
+<h1 align="center">Hi 👋🏿, I'm Jacktone Clarance A Software Engineer </h1>
+<!-- <h3 align="center"> from the land of lions🦁, safari🐘, and incredible code-trekking adventures! Kenya 🇰🇪, see what I did there😜, I know😔.</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=clarancej&label=Profile%20views&color=0e75b6&style=flat" alt="clarancej" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/clarancej" target="blank"><img src="https://img.shields.io/twitter/follow/clarancej?logo=twitter&style=for-the-badge" alt="clarancej" /></a> </p>
 
-- 🔭 I’m currently working on [KaicyLTD](https://kaicyltd-career-website.onrender.com/#)
+<!-- - 🔭 I’m currently working on [KaicyLTD](https://kaicyltd-career-website.onrender.com/#)-->
+
+- 🔭 I’m currently working at [JEPCOLTD](https://jepcocleaning.co.ke/)
 
 - 🌱 I’m currently learning **C,EMACS**
 
