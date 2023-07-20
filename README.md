@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/omondi8399/count.svg" />
 </p>
 
-<h3 align="center">Hi 👋🏿, I'm Jacktone Clarance, A Software Engineer from the land of incredible code-trekking adventures! 🇰🇪 </h3>
+<h2 align="center">Hi 👋🏿, I'm Jacktone Clarance, A Software Engineer from the land of incredible code-trekking adventures! 🇰🇪 </h2>
 <!-- <h3 align="center"> from the land of lions🦁, safari🐘, and incredible code-trekking adventures! Kenya 🇰🇪, see what I did there😜, I know😔.</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 
