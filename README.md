@@ -1,4 +1,4 @@
-![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)
+<!-- ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif) -->
 
 <p align="center"> 
   Visitor count<br>
