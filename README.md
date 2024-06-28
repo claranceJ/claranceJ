@@ -8,7 +8,7 @@
 </p>
 
 <!-- Introduction with animated image -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p>
   I'm a passionate front-end developer currently working at <a href="https://jepcocleaning.co.ke/">JEPCOLTD</a>. I love creating visually appealing and user-friendly web applications. I'm currently expanding my skills in PHP.
@@ -31,20 +31,46 @@
 <!-- Skills and Tools -->
 ### 🛠️ Skills and Tools
 #### Languages
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
+  </a>
+</p>
 
 #### Frameworks & Libraries
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
+  </a>
+</p>
 
 #### Tools
-![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![CI/CD](https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg)
-![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+  </a>
+  <a href="https://circleci.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CI/CD" width="30" height="30"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/>
+  </a>
+</p>
 
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
