@@ -16,7 +16,7 @@
 </p>
 
 - 🔭 I’m currently working at [JEPCOLTD](https://jepcocleaning.co.ke/)
-- 🌱 I’m currently learning **C, EMACS**
+- 🌱 I’m currently learning **PHP**
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - 📫 How to reach me **jacktonec@gmail.com**
 - ⚡ Fun fact **I played Rugby for The Impala Academy Team🏉**
@@ -50,6 +50,21 @@
   </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://circleci.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
 </p>
 
