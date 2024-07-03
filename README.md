@@ -11,12 +11,11 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p>
-  I'm a passionate front-end developer currently working at <a href="https://jepcocleaning.co.ke/">JEPCOLTD</a>. I love creating visually appealing and user-friendly web applications. I'm currently expanding my skills in PHP.
+  I'm a passionate front-end developer. I love creating visually appealing and user-friendly web applications. I'm currently expanding my skills in PHP.
 </p>
 
 <!-- What I'm currently doing -->
 ### 🌟 What I'm Up To
-- 🔭 Working at [JEPCOLTD](https://jepcocleaning.co.ke/)
 - 🌱 Learning **PHP**
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - 📫 Reach me at **jacktonec@gmail.com**
