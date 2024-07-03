@@ -56,20 +56,20 @@
 </p>
 
 #### Tools
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
   </a>
-  <a href="https://circleci.com/" target="_blank" rel="noreferrer">
+  <a href="https://circleci.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CI/CD" width="30" height="30"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/>
   </a>
-</p>
+</div>
 
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
