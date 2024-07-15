@@ -10,9 +10,9 @@
 <!-- Introduction with animated image -->
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p>
+<!-- <p>
   I'm a passionate front-end developer. I love creating visually appealing and user-friendly web applications. I'm currently expanding my skills in PHP.
-</p>
+</p> -->
 
 <!-- What I'm currently doing -->
 ### 🌟 What I'm Up To
