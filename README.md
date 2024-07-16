@@ -12,7 +12,7 @@
 <div style="display: flex; flex-direction: column;">
   
   <div align="right">
-    <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+    <img align="center" alt="Coding" width="300" margin-right="50%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   </div>
   
   <div align="left">
