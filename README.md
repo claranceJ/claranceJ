@@ -11,7 +11,7 @@
 
 <div style="display: flex; flex-direction: column;">
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  <p align= "left">
+  <p align= "center">
   I'm a passionate front-end developer. I love creating visually appealing and user-friendly web applications. I'm currently expanding my skills in JS.
   </p>
 </div>
