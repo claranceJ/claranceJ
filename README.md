@@ -7,14 +7,15 @@
   <img src="https://profile-counter.glitch.me/omondi8399/count.svg" />
 </p>
 
-<!-- Introduction with animated image -->
 
+<!-- Introduction with animated image -->
 <div style="display: flex; flex-direction: column;">
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   <p align= "center">
   I'm a passionate front-end developer. I love creating visually appealing and user-friendly web applications. I'm currently expanding my skills in JS.
   </p>
 </div>
+
 
 
 <!-- What I'm currently doing -->
@@ -24,11 +25,15 @@
 - 📫 Reach me at **jacktonec@gmail.com**
 - ⚡ Fun fact: I played Rugby for The Impala Academy Team 🏉
 
+
+
 <!-- Connect with me section -->
 ### 📫 Connect with Me
 [![Twitter](https://img.shields.io/twitter/follow/clarancej?logo=twitter&style=for-the-badge)](https://twitter.com/clarancej)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacktone%20Clarance-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jacktoneclarance)
 [![Instagram](https://img.shields.io/badge/Instagram-Jacktone%20Clarance-orange?style=for-the-badge&logo=instagram)](https://instagram.com/jacktoneclarance)
+
+
 
 <!-- Skills and Tools -->
 ### 🛠️ Skills and Tools
