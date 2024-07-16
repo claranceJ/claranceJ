@@ -11,11 +11,11 @@
 <!-- Introduction with animated image -->
 <div style="display: flex; flex-direction: column;">
   
-  <div align="right">
-    <img align="center" alt="Coding" width="300" margin-right="50%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <div align="center">
+    <img align="center" alt="Coding" width="300" padding-right="50%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   </div>
   
-  <div align="left">
+  <div align="center">
      <p align= "center">
       I'm a passionate front-end developer. I love creating visually appealing and user-friendly web applications. I'm currently expanding my skills in JS.
      </p>
