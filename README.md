@@ -27,7 +27,7 @@
 
 <!-- What I'm currently doing -->
 ### 🌟 What I'm Up To
-- 🌱 Learning **PHP**
+- 🌱 Learning **Javascript**
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - 📫 Reach me at **jacktonec@gmail.com**
 - ⚡ Fun fact: I played Rugby for The Impala Academy Team 🏉
