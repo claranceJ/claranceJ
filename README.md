@@ -67,6 +67,9 @@
   <a href="https://vitejs.dev/" target="_blank" class="m-1">
     <img src="https://vitejs.dev/logo.svg" width="30" height="30" />
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" class="m-1">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="30" height="30" />
+  </a>
   <a href="https://getbootstrap.com" target="_blank" class="m-1">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" height="30" />
   </a>
