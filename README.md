@@ -10,7 +10,7 @@
 <!-- Introduction with animated image -->
 <div class="flex flex-col items-center">
   
-  <img class="w-60 mb-4" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <!--img class="w-60 mb-4" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" -->
   
   <p class="text-center mb-4">
     I'm a passionate front-end developer who loves creating visually appealing and user-friendly web applications. Currently, I'm expanding my skills in JavaScript and exploring new technologies.
